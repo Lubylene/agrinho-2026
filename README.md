@@ -1,13 +1,15 @@
-# Projeto CCM
+# 🌱 Agro Forte - Futuro Sustentável
 
-Site sobre equilíbrio entre produção e meio ambiente.
+Projeto desenvolvido com HTML, CSS e JavaScript.
 
-## Tecnologias usadas
-
-- HTML
-- CSS
-- JavaScript
+## Tema
+Equilíbrio entre produção e meio ambiente.
 
 ## Objetivo
+Mostrar a importância da sustentabilidade no agronegócio,
+unindo tecnologia, preservação ambiental e produção agrícola.
 
-Conscientizar sobre a importância da sustentabilidade e da preservação ambiental.
+## Tecnologias usadas
+- HTML5
+- CSS3
+- JavaScript
