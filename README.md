@@ -1,32 +1,40 @@
-# 🌱 Agro Forte, Futuro Sustentável
+# 🌱 Agro Forte
 
-Projeto desenvolvido para conscientizar sobre a importância do agronegócio sustentável e do equilíbrio entre produção e preservação ambiental.
+## Futuro Sustentável
 
-## Temas abordados
+Projeto desenvolvido para o Programa Agrinho.
 
-- Agro Forte
-- Futuro Sustentável
-- Agricultura Responsável
-- Preservação Ambiental
-- Reciclagem
-- Sustentabilidade
+### Tema
 
-## Tecnologias
+Agro Forte: Futuro Sustentável – Equilíbrio entre Produção e Meio Ambiente.
+
+### Tecnologias
 
 - HTML5
 - CSS3
 - JavaScript
 
-## Estrutura
+### Objetivos
 
-```bash
-img/
-style/
+- Incentivar práticas sustentáveis.
+- Promover a preservação ambiental.
+- Valorizar a produção agrícola responsável.
+- Conscientizar sobre reciclagem e reaproveitamento.
+
+### Estrutura
+
+```txt
 index.html
 main.js
-README.md
+
+style/
+ ├── header.css
+ └── style.css
+
+img/
+ ├── logo.png
+ ├── hero.jpg
+ ├── sustentabilidade.jpg
+ ├── reciclagem.jpg
+ └── natureza.jpg
 ```
-
-## Objetivo
-
-Demonstrar como a produção agrícola pode caminhar lado a lado com a preservação dos recursos naturais, garantindo qualidade de vida para as futuras gerações.

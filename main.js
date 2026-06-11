@@ -1,15 +1,8 @@
-document.querySelectorAll('a[href^="#"]').forEach(link => {
+document.getElementById("btn1").addEventListener("click", () => {
 
-    link.addEventListener('click', function(e){
-
-        e.preventDefault();
-
-        const destino = document.querySelector(this.getAttribute('href'));
-
-        destino.scrollIntoView({
-            behavior: 'smooth'
-        });
-
-    });
+window.scrollTo({
+top: document.querySelector(".cards").offsetTop,
+behavior: "smooth"
+});
 
 });
