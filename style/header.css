@@ -1,33 +1,37 @@
-```css
-header {
-    background-color: #2e7d32;
-    color: white;
-    text-align: center;
-    padding: 30px;
+header{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+
+    background: rgba(0,0,0,0.8);
+    backdrop-filter: blur(10px);
 }
 
-header h1 {
-    font-size: 45px;
-    margin-bottom: 10px;
+nav{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    padding:15px 8%;
 }
 
-header p {
-    font-size: 18px;
+nav h1{
+    color:#4CAF50;
 }
 
-nav {
-    margin-top: 20px;
+nav ul{
+    display:flex;
+    list-style:none;
+    gap:30px;
 }
 
-nav a {
-    color: white;
-    text-decoration: none;
-    margin: 15px;
-    font-weight: bold;
-    transition: 0.3s;
+nav a{
+    text-decoration:none;
+    color:white;
+    transition:0.3s;
 }
 
-nav a:hover {
-    color: #c8e6c9;
+nav a:hover{
+    color:#4CAF50;
 }
-```

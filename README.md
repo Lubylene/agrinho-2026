@@ -1,15 +1,32 @@
-# 🌱 Agro Forte - Futuro Sustentável
+# 🌱 Agro Forte, Futuro Sustentável
 
-Projeto desenvolvido com HTML, CSS e JavaScript.
+Projeto desenvolvido para conscientizar sobre a importância do agronegócio sustentável e do equilíbrio entre produção e preservação ambiental.
 
-## Tema
-Equilíbrio entre produção e meio ambiente.
+## Temas abordados
 
-## Objetivo
-Mostrar a importância da sustentabilidade no agronegócio,
-unindo tecnologia, preservação ambiental e produção agrícola.
+- Agro Forte
+- Futuro Sustentável
+- Agricultura Responsável
+- Preservação Ambiental
+- Reciclagem
+- Sustentabilidade
 
-## Tecnologias usadas
+## Tecnologias
+
 - HTML5
 - CSS3
 - JavaScript
+
+## Estrutura
+
+```bash
+img/
+style/
+index.html
+main.js
+README.md
+```
+
+## Objetivo
+
+Demonstrar como a produção agrícola pode caminhar lado a lado com a preservação dos recursos naturais, garantindo qualidade de vida para as futuras gerações.
