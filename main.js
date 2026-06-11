@@ -1,3 +1,4 @@
+```javascript
 const accessibilityBtn =
 document.getElementById("accessibilityBtn");
 
@@ -37,3 +38,14 @@ function toggleContrast(){
     );
 
 }
+
+document.getElementById("btn1")
+.addEventListener("click", () => {
+
+    document.getElementById("acoes")
+    .scrollIntoView({
+        behavior:"smooth"
+    });
+
+});
+```
